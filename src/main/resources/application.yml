@@ -1,0 +1,12 @@
+springdoc:
+  swagger-ui:
+    path: /
+    disable-swagger-default-url: true
+
+spring:
+  mail:
+    username: example@mail.ru
+    password: password
+
+swagger:
+  url: http://localhost:8080/
